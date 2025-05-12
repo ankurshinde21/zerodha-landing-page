@@ -1,0 +1,42 @@
+.Navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+}
+
+.Navbar img {
+    margin-left: 25px;
+}
+
+.Navbar span {
+    margin-right: 25px;
+}
+
+.landing img {
+    display: flex;
+    justify-content: center;
+}
+
+.landing-image {
+    display: block;
+    margin: 0 auto;
+    max-width: 100%;
+    height: auto;
+}
+
+.center-text {
+    font-family: "Inter", sans-serif;
+    text-align: center;
+    margin: 20px 0;
+}
+
+button {
+    padding: 10px 20px;
+    background-color: #387ed1;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 16px;
+}
